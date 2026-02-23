@@ -92,7 +92,7 @@ logo:     https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo
 @end
 -->
 
-# Session 3: BMAD with Local AI (Offline)
+# Presentation 4-V2: Local AI (Offline)
 
 > **Duration**: 1 hour 40 minutes  
 > **Format**: 🎓 Hands-On Workshop  
@@ -1704,6 +1704,7 @@ Remember:
 </div>
 
 ---
+
 
 
 
